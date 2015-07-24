@@ -2,7 +2,7 @@
 How I do things, for future reference.
 
 ##Editor
-Sublime text, yay. Preferred user settings: https://gist.github.com/crismanNoble/fdda297e1dfa6fc7364f
+Sublime text, yay. Preferred user settings: https://gist.github.com/crismanNoble/fdda297e1dfa6fc7364f. 
 
 Good packages:
 * Expand Tabs on Save: https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save
@@ -11,6 +11,9 @@ Good packages:
 * LESS/Handlebars Syntax: https://packagecontrol.io/packages/Monokai%20Extended
 * Markdown Extended Syntax: https://packagecontrol.io/packages/Markdown%20Extended
 
+##Great Ideas
+####Use .editorconfig
+Read more http://editorconfig.org, mine: https://gist.github.com/crismanNoble/d98c2571c0c0fa5af8f4
  
 ##Stuff I always have to look up
 * boookmarklet boilerplate: https://gist.github.com/crismanNoble/c3ae7decc8c2b4224b00
