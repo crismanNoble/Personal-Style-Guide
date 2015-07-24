@@ -5,3 +5,13 @@ How I do things, for future reference.
 Anytime you put user supplied data into a database, it is imparitive that you perpare it properly. When using PHP + mySQL, the easiest way is to use `mysqli::real_escape_string()`[1]. However, since this will escape `"`, make sure to escape the double quotes, `\"`, when dumping the putput back to json.
 
 [1: php.net](http://php.net/manual/en/mysqli.real-escape-string.php).
+
+##Editor
+Sublime text, yay.
+
+Good packages:
+* Expand Tabs on Save: https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save
+* EditorConfig: https://packagecontrol.io/packages/EditorConfig
+* LESS Syntax Highlighting: https://packagecontrol.io/packages/LESS
+* LESS/Handlebars Syntax: https://packagecontrol.io/packages/Monokai%20Extended
+* Markdown Extended Syntax: https://packagecontrol.io/packages/Markdown%20Extended
