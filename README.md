@@ -7,7 +7,7 @@ Anytime you put user supplied data into a database, it is imparitive that you pe
 [1: php.net](http://php.net/manual/en/mysqli.real-escape-string.php).
 
 ##Editor
-Sublime text, yay.
+Sublime text, yay. Preferred user settings: https://gist.github.com/crismanNoble/fdda297e1dfa6fc7364f
 
 Good packages:
 * Expand Tabs on Save: https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save
