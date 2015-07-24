@@ -15,3 +15,8 @@ Good packages:
 * LESS Syntax Highlighting: https://packagecontrol.io/packages/LESS
 * LESS/Handlebars Syntax: https://packagecontrol.io/packages/Monokai%20Extended
 * Markdown Extended Syntax: https://packagecontrol.io/packages/Markdown%20Extended
+
+ 
+##Stuff I always have to look up
+* boookmarklet boilerplate: https://gist.github.com/crismanNoble/c3ae7decc8c2b4224b00
+* SimpleHTTP Server Syntax: ???
