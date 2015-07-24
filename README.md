@@ -22,3 +22,8 @@ Anytime you put user supplied data into a database, it is imparitive that you pe
 
 [1: php.net](http://php.net/manual/en/mysqli.real-escape-string.php).
 
+##Blindspots that need research
+* Effectively using Digital Ocean
+* Installing a SSL cert
+* Knowing anything about mail servers
+
